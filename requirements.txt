@@ -1,3 +1,4 @@
 mkdocs-material
 mkdocs-git-committers-plugin-2
 
+urllib3>=2.5.0 # not directly required, pinned by Snyk to avoid a vulnerability
